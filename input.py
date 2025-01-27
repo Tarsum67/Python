@@ -1,5 +1,9 @@
 
-
+'''
+Input Assignment
+Name:"Travis Routhier"
+github link:"https://github.com/Tarsum67/Python" 
+'''
 # Ask the user for their total budget
 total_budget = float(input("Enter your total monthly budget: $"))
 
