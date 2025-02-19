@@ -12,7 +12,7 @@ def circle(radius):
     area = radius * radius * 3.14
     return print(f"'The area of a circle is {area} square units'")
    
-   
+
 
 if __name__ == "__main__":
     import doctest
