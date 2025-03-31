@@ -1,7 +1,7 @@
 '''
 Homework2  
 Name: Travis Routhier  
-GitHub link: https://github.com/Tarsum67/Python/tree/main/mod3.2  
+GitHub link: https://github.com/Tarsum67/Python/tree/main/mod3.2/homework2  
 Note: Remember to use comments for each function.  
 doc strings should include what each input consists of,  
 what the expected output is and a description of the function.  
