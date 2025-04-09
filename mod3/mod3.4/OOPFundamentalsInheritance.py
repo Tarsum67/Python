@@ -1,7 +1,7 @@
 '''
 3.5.1.1. OOP Fundamentals: Inheritance
 Name: "Travis Routhier"
-github link:"https://github.com/Tarsum67/Python"
+github link:"https://github.com/Tarsum67/Python/blob/main/mod3/mod3.4/OOPFundamentalsInheritance.py"
 '''
 
 
