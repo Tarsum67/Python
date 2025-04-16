@@ -3,18 +3,14 @@
 Name: "Travis Routhier"
 github link:"https://github.com/Tarsum67/Python"
 '''
-# personal_diary.py
-# A simple diary program that records user entries with date and time into a file
+
 
 
 import os
 
 
 def original_main():
-    """
-    Main function to collect diary entry and save it to a file.
-    Appends each entry with a newline for separation.
-    """
+
     date_time = input("Enter the current date and time: ")
     entry = input("Enter your diary entry: ")
 
@@ -30,7 +26,7 @@ def main():
     entry = input("Enter your diary entry: ")
 
     try:
-        # Just write directly to diary.txt in the current folder
+       
         with open("diary.txt", "a") as file:
             file.write(f"{date_time}\n{entry}\n\n")
 
