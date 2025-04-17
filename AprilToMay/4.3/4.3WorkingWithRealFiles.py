@@ -28,7 +28,7 @@ def main():
             print("No valid numbers found in the file.")
 
     except IOError:
-        print("An IOError has occurred. Could not open 'sales_totals.txt'.")
+        print("An Error has occurred. Could not open 'sales_totals.txt'.")
 
 
 if __name__ == "__main__":
