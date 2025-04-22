@@ -3,9 +3,9 @@
 Name: "Travis Routhier"
 github link:"https://github.com/Tarsum67/Python" 
 '''
-# age_calculator.py
 
-from datetime import datetime, timedelta
+
+from datetime import datetime
 
 def main():
     try:
